@@ -1,0 +1,43 @@
+
+*{
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+#showcase {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+body {
+    font-size: 'Roboto', sans serif;
+    font-weight: 300;
+    background: #818181;
+    background-color: rgb(231, 228, 228);
+}
+
+.logo {
+    
+    
+    
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+
+}
+
+.checkbox {
+
+
+
+}
+
+
+
